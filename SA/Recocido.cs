@@ -45,7 +45,7 @@ namespace SA_AST.SA
 
             for (int i = 0; i < DIMENSION; i++)
             {
-                solucion_aleatoria[i] = rand.NextDouble() * 10;
+                solucion_aleatoria[i] = rand.NextDouble() * 100;
             }
 
             return solucion_aleatoria;
@@ -106,7 +106,19 @@ namespace SA_AST.SA
                 //Disminuir la temperatura basado en la tasa de enfriamiento definida
                 TEMPERATURA = TEMPERATURA * TASA_ENFRIAMIENTO;
             }
+        }
 
+        public Dictionary<string, double> get_mejor_solucion()
+        {
+            Dictionary<string, double> mejor_solucion = new Dictionary<string, double>();
+            for (int i = 0; i < AST.INCOGNITAS.Count; i++)
+            {
+                mejor_solucion[AST.INCOGNITAS[i]] = MEJOR_SOLUCION_VALORES[i];
+            }
+
+            Console.WriteLine(string.Join(", ", mejor_solucion));
+
+            return mejor_solucion;
         }
     }
 }
