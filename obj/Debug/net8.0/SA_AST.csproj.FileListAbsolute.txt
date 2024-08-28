@@ -1,0 +1,14 @@
+C:\Users\TICS\Desktop\pp\SA_AST\bin\Debug\net8.0\SA_AST.exe
+C:\Users\TICS\Desktop\pp\SA_AST\bin\Debug\net8.0\SA_AST.deps.json
+C:\Users\TICS\Desktop\pp\SA_AST\bin\Debug\net8.0\SA_AST.runtimeconfig.json
+C:\Users\TICS\Desktop\pp\SA_AST\bin\Debug\net8.0\SA_AST.dll
+C:\Users\TICS\Desktop\pp\SA_AST\bin\Debug\net8.0\SA_AST.pdb
+C:\Users\TICS\Desktop\pp\SA_AST\obj\Debug\net8.0\SA_AST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TICS\Desktop\pp\SA_AST\obj\Debug\net8.0\SA_AST.AssemblyInfoInputs.cache
+C:\Users\TICS\Desktop\pp\SA_AST\obj\Debug\net8.0\SA_AST.AssemblyInfo.cs
+C:\Users\TICS\Desktop\pp\SA_AST\obj\Debug\net8.0\SA_AST.csproj.CoreCompileInputs.cache
+C:\Users\TICS\Desktop\pp\SA_AST\obj\Debug\net8.0\SA_AST.dll
+C:\Users\TICS\Desktop\pp\SA_AST\obj\Debug\net8.0\refint\SA_AST.dll
+C:\Users\TICS\Desktop\pp\SA_AST\obj\Debug\net8.0\SA_AST.pdb
+C:\Users\TICS\Desktop\pp\SA_AST\obj\Debug\net8.0\SA_AST.genruntimeconfig.cache
+C:\Users\TICS\Desktop\pp\SA_AST\obj\Debug\net8.0\ref\SA_AST.dll
