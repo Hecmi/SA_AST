@@ -1,0 +1,16 @@
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\bin\Debug\net5.0\SA_AST.exe
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\bin\Debug\net5.0\SA_AST.deps.json
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\bin\Debug\net5.0\SA_AST.runtimeconfig.json
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\bin\Debug\net5.0\SA_AST.runtimeconfig.dev.json
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\bin\Debug\net5.0\SA_AST.dll
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\bin\Debug\net5.0\ref\SA_AST.dll
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\bin\Debug\net5.0\SA_AST.pdb
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\obj\Debug\net5.0\SA_AST.csproj.AssemblyReference.cache
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\obj\Debug\net5.0\SA_AST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\obj\Debug\net5.0\SA_AST.AssemblyInfoInputs.cache
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\obj\Debug\net5.0\SA_AST.AssemblyInfo.cs
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\obj\Debug\net5.0\SA_AST.csproj.CoreCompileInputs.cache
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\obj\Debug\net5.0\SA_AST.dll
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\obj\Debug\net5.0\ref\SA_AST.dll
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\obj\Debug\net5.0\SA_AST.pdb
+C:\Users\LUIS CASANOVA\source\repos\SA_AST\obj\Debug\net5.0\SA_AST.genruntimeconfig.cache
